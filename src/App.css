@@ -1,0 +1,16 @@
+.App {
+   text-align: center;
+}
+.App__box {
+    border: 2px solid grey;
+    margin: 2rem 15rem;
+    padding: 3rem;
+}
+.App__box__data{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid gray;
+    margin-bottom: 1rem;
+    border-radius: 5%;
+}
